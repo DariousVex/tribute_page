@@ -1,0 +1,16 @@
+html {
+	font-size: 15px;
+}
+
+body {
+	font-family: Poppins, sans-serif;
+	text-align: center;
+	background-color: black;
+	color: gray;
+}
+
+#image {
+	max-width:100%;
+	height: auto;
+	display: block;
+}
